@@ -1,6 +1,6 @@
 package workshop.book.entity;
 
-public class Publication {
+public class Publication extends Object {
 	private String title;
 	private String publishingDate;
 	private int page;
